@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/JoyGoodLife/fullstack-front/static/css/main.190e8e4e.chunk.css",
-    "main.js": "/JoyGoodLife/fullstack-front/static/js/main.b2d7b3c3.chunk.js",
-    "main.js.map": "/JoyGoodLife/fullstack-front/static/js/main.b2d7b3c3.chunk.js.map",
-    "runtime-main.js": "/JoyGoodLife/fullstack-front/static/js/runtime-main.6d3b1432.js",
-    "runtime-main.js.map": "/JoyGoodLife/fullstack-front/static/js/runtime-main.6d3b1432.js.map",
-    "static/js/2.163b2658.chunk.js": "/JoyGoodLife/fullstack-front/static/js/2.163b2658.chunk.js",
-    "static/js/2.163b2658.chunk.js.map": "/JoyGoodLife/fullstack-front/static/js/2.163b2658.chunk.js.map",
-    "index.html": "/JoyGoodLife/fullstack-front/index.html",
-    "static/css/main.190e8e4e.chunk.css.map": "/JoyGoodLife/fullstack-front/static/css/main.190e8e4e.chunk.css.map",
-    "static/js/2.163b2658.chunk.js.LICENSE.txt": "/JoyGoodLife/fullstack-front/static/js/2.163b2658.chunk.js.LICENSE.txt"
+    "main.css": "/fullstack-front/static/css/main.190e8e4e.chunk.css",
+    "main.js": "/fullstack-front/static/js/main.add4da00.chunk.js",
+    "main.js.map": "/fullstack-front/static/js/main.add4da00.chunk.js.map",
+    "runtime-main.js": "/fullstack-front/static/js/runtime-main.5b8248fc.js",
+    "runtime-main.js.map": "/fullstack-front/static/js/runtime-main.5b8248fc.js.map",
+    "static/js/2.163b2658.chunk.js": "/fullstack-front/static/js/2.163b2658.chunk.js",
+    "static/js/2.163b2658.chunk.js.map": "/fullstack-front/static/js/2.163b2658.chunk.js.map",
+    "index.html": "/fullstack-front/index.html",
+    "static/css/main.190e8e4e.chunk.css.map": "/fullstack-front/static/css/main.190e8e4e.chunk.css.map",
+    "static/js/2.163b2658.chunk.js.LICENSE.txt": "/fullstack-front/static/js/2.163b2658.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d3b1432.js",
+    "static/js/runtime-main.5b8248fc.js",
     "static/js/2.163b2658.chunk.js",
     "static/css/main.190e8e4e.chunk.css",
-    "static/js/main.b2d7b3c3.chunk.js"
+    "static/js/main.add4da00.chunk.js"
   ]
 }
